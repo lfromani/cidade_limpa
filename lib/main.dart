@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       title: "Olá Mundo",
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Primeiro Projeto'),
+          title: Text('Primeiro Projeto aaaaaaa'),
         ),
         body: Center(
           child: Text('Oi Julia te AMOOOOOOOOO!'),
