@@ -1,6 +1,6 @@
 # cidade_limpa
 
-A new Flutter project.
+Um novo projeto Flutter.
 
 ## Getting Started
 
